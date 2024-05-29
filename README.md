@@ -2,9 +2,9 @@
 
 ### Для проверки:
 
-git clone ...
+git clone https://github.com/Trifonix/work2705.git
 
-cd ...
+cd work2705
 
 npm i
 
